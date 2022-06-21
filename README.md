@@ -6,4 +6,4 @@
    > model prediction and
    > performance evaluation
    
-2) Predicting the car price
+2) Car price prediction 
